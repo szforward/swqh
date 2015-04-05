@@ -8,9 +8,9 @@
  * @package WordPress
  */
 
-// Edit:forward
+// Edit:forward  2015-4-6
 
-
+//测试在github客户端的效果 
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname(__FILE__) . '/wp-load.php' );
